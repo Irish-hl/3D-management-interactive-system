@@ -1,4 +1,2 @@
-Git is a distributed version control system.
-Git is a free software under GPL.
-another branch called feature1
-you and me
+多Agent系统(multi-agent systems,MAS)在当今社会人工智能领域发展势头较为迅猛。它是一个由多个自治独立的Agent组成，靠各个Agent之间的相互协作、服务来共同完成一个指定任务的智能体系统。本文设计并实现一个面向该类MAS（本文中以多车协同平台为例）的3d管理交互系统。该系统将实景抽象为3d模型，管理人员可以直接通过该系统，实时在PC端查看多车协同平台中各Agent的状态信息(包括3d图像和数据)，把握其动向，并能随时与各Agent进行交互，达到人为干预控制的作用，简化了管理人员繁琐的信息采集处理工作，直观且用户友好。
+同时，在多车自主协同平台中各小车有限访问的个体资源不同，针对如何在这一限制条件下做到小车之间的信息共享交互，采用了黑板模型这一思想，以做到基于角色的访问控制。
