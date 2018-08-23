@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\ClientSocket.cs">
+    <Files>
+      <File FileName="Assets\scripts\carScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\motion.cs" Line="112" Column="31" />
+      <File FileName="Assets\scripts\viewChange.cs" Line="105" Column="12" />
+      <File FileName="Assets\scripts\ClientSocket.cs" Line="44" Column="34" />
+      <File FileName="Assets\scripts\TestSocket.cs" Line="15" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

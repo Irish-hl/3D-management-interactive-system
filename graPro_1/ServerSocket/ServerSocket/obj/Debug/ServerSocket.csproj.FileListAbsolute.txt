@@ -1,0 +1,6 @@
+D:\Documents\myunity\graPro\ServerSocket\ServerSocket\bin\Debug\ServerSocket.exe.config
+D:\Documents\myunity\graPro\ServerSocket\ServerSocket\bin\Debug\ServerSocket.exe
+D:\Documents\myunity\graPro\ServerSocket\ServerSocket\bin\Debug\ServerSocket.pdb
+D:\Documents\myunity\graPro\ServerSocket\ServerSocket\obj\Debug\ServerSocket.csprojResolveAssemblyReference.cache
+D:\Documents\myunity\graPro\ServerSocket\ServerSocket\obj\Debug\ServerSocket.exe
+D:\Documents\myunity\graPro\ServerSocket\ServerSocket\obj\Debug\ServerSocket.pdb
